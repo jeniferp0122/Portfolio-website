@@ -38,8 +38,9 @@
 					<span class="operator">
 						=
 					</span>
-					<a class="string" :href="'https://github.com/' + config.public.dev.contacts.social.github.user">
-						"https://github.com/{{ config.public.dev.contacts.social.github.user }}"
+					
+					<a class="string" :href="'https://gist.github.com/' + config.public.dev.contacts.social.github.user + config.public.dev.contacts.social.github['snake-game']  ">
+						"https://github.com/{{ config.public.dev.contacts.social.github.user + "snake-game" }}"
 					</a>
 				</p>
 			</div>

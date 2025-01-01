@@ -80,7 +80,7 @@ import { ref } from 'vue'
 
 const config = useRuntimeConfig()
 
-const techs = ['React', 'HTML', 'CSS', 'Vue', 'Angular', 'Gatsby', 'Flutter']
+const techs = ['React', 'HTML', 'CSS', 'Vue', 'Angular', 'Gatsby', 'Flutter', 'Python', 'Java', 'Javascript', 'Swift', 'C++', 'CSharp', 'dotNet']
 const filters = ref(['all'])
 const showFilters = ref(true)
 const projects = ref(config.public.dev.projects)

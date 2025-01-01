@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "Jennifer Pantoja",
+    "logo_name": "jennifer-pantoja",
+    "role": "Software Engineer",
     "about": {
         "sections": {
             "professional-info": {
@@ -10,15 +10,15 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Over the past 5 years, I have transitioned from providing technical guidance in a customer-facing retail environment to contributing directly to the development of sophisticated, AI-driven software applications as a software engineer. Below is a summary of my professional journey and the skill sets I have honed along the way:<br><br><strong>ClearSet.AI (Jan 2024 - Present):</strong><br>- Designed and developed user interfaces and full-stack applications using HTML, CSS, React.js, and Node.js.<br>- Integrated front-end components with APIs, databases, and back-end services.<br>- Leveraged TensorFlow and Python for data processing and machine learning integration.<br>- Contributed to the implementation of AI-driven services using Python and Google Colab.<br><br><strong>Vumi Group (Jan 2024 - Jul 2024):</strong><br>- Developed, maintained and deployed software using XML, SQL, Django, React, Java and AWS.<br>- Worked extensively with PostgreSQL databases for efficient data management and retrieval.<br>- Collaborated on full-cycle software development, from initial design through testing and implementation.<br><br><strong>Best Buy (Jan 2020 - Jan 2023):</strong><br>- Advised customers on technical matters and recommended appropriate computer configurations.<br>- Provided information on product specifications and hardware solutions, improving customer satisfaction.<br>- Contributed to enhanced user experiences, ultimately increasing customer retention."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Over the years, I have developed a diverse skill set encompassing multiple programming languages, frameworks, and tools. From building responsive front-end interfaces with HTML5, CSS3, and React.js, to implementing full-stack solutions using Node.js and SQL databases, I am adept at delivering functional, user-centric applications. I have experience with TypeScript and Python for more complex logic, and Java, C, C#, and C++ for systems-level development. Additionally, I leverage testing frameworks like Cypress and Jest to ensure code quality, utilize industry-standard design tools (Adobe Photoshop, Adobe XD, Figma, Sketch) for streamlined UI/UX workflows, and follow Agile methodologies (Scrum, Kanban) supported by version control and project management tools such as Git, VSCode, WebStorm, and Jira.<br><br><strong>Skills Overview:</strong><br><br><strong>Programming Languages:</strong><br>JavaScript, TypeScript, Python, Java, C, C#, C++, SQL<br><br><strong>Front-end:</strong><br>HTML5, CSS3, React.js, Next.js, Node.js, Styled Components, Tailwind CSS<br><br><strong>Mobile:</strong><br>React Native, Swift, Kotlin<br><br><strong>Testing:</strong><br>Cypress, Jest, React Testing Library<br><br><strong>Design:</strong><br>Adobe Photoshop, Adobe XD, Figma, Sketch<br><br><strong>Version Control and Tools:</strong><br>Git, VSCode, WebStorm, Jira, Figma<br><br><strong>Methodologies:</strong><br>Agile/Scrum, Kanban<br><br><strong>Skill Proficiency:</strong><br><br>Java <span style='float:right;'>80%</span><br><div style='background:#333;width:100%;height:10px;'><div style='background:#f90;width:80%;height:10px;'></div></div><br>Python <span style='float:right;'>80%</span><br><div style='background:#333;width:100%;height:10px;'><div style='background:#f90;width:80%;height:10px;'></div></div><br>HTML5 <span style='float:right;'>80%</span><br><div style='background:#333;width:100%;height:10px;'><div style='background:#f90;width:80%;height:10px;'></div></div><br>CSS3 <span style='float:right;'>80%</span><br><div style='background:#333;width:100%;height:10px;'><div style='background:#f90;width:80%;height:10px;'></div></div><br>JavaScript <span style='float:right;'>80%</span><br><div style='background:#333;width:100%;height:10px;'><div style='background:#f90;width:80%;height:10px;'></div></div><br>React.js <span style='float:right;'>60%</span><br><div style='background:#333;width:100%;height:10px;'><div style='background:#f90;width:60%;height:10px;'></div></div><br>TypeScript <span style='float:right;'>40%</span><br><div style='background:#333;width:100%;height:10px;'><div style='background:#f90;width:40%;height:10px;'></div></div><br>Git <span style='float:right;'>70%</span><br><div style='background:#333;width:100%;height:10px;'><div style='background:#f90;width:70%;height:10px;'></div></div>"
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I bring more than just technical expertise to every project—I value open communication, active listening, and genuine empathy in all team interactions. By fostering an environment where diverse ideas are encouraged and every voice is heard, I help ensure that collaboration thrives and trust is built among colleagues and stakeholders. <br> My adaptability and problem-solving capabilities allow me to remain calm under pressure, quickly evaluating challenges from multiple angles and guiding teams toward creative, effective solutions. With a commitment to continuous growth, I embrace feedback, encourage professional development, and maintain a positive, solution-focused mindset that supports both individual contributors and the collective success of the organization."
                     }
                 }
             },
@@ -28,18 +28,18 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br> About me <br> About me I have 3 years of experience in software development/egineering, during which I’ve worked extensively with modern front-end frameworks, robust back-end services, and responsive design principles. Throughout my career, I’ve focused on crafting intuitive user interfaces, ensuring efficient data management, and integrating APIs that deliver seamless user experiences. In addition to building high-quality code, I’ve embraced Agile methodologies, prioritized clear communication, and fostered collaborative teamwork to bring projects from concept to completion. <br> My passion for continuous learning keeps me exploring emerging technologies and best practices, allowing me to adapt quickly and deliver solutions that not only meet, but exceed expectations."
                     },
                     "interests": {
                         "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I am passionate about AI and Machine learning and I am constantly learning and striving to broaden my skill set by exploring emerging technologies, experimenting with innovative methodologies, and staying informed about the latest industry trends. This commitment to ongoing growth not only enhances my adaptability in an ever-evolving field but also empowers me to tackle complex challenges with confidence and creativity. Ultimately, my passion for continuous improvement drives me to deliver meaningful solutions that exceed expectations."
                     },
                     "education": {
                         "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                        "description": "<br><strong>Education:</strong><br><strong>B.S in Computer Engineering</strong><br><strong>Florida International University(Miami,Florida)</strong><br>I have always been passionate about leveraging technology to solve real-world problems—an interest that guided me toward pursuing a BS in Computer Engineering at Florida International University. During my studies, I immersed myself in rigorous coursework that blended theoretical foundations with hands-on experimentation, honing my analytical thinking and technical proficiency. The diverse academic environment and collaborative projects allowed me to refine my problem-solving abilities, enhance my teamwork skills, and gain exposure to cutting-edge engineering practices.<br> This comprehensive educational background provided me not only with a solid engineering skill set but also with the confidence and adaptability to navigate the ever-evolving landscape of technology. It laid the groundwork for my continuous growth as a dedicated and forward-thinking software engineer. <br> additionally I've completed, <br> <strong>  Machine Learning and AI with Python Certification</strong> <br> <strong> Harvard University </strong>",
                         "files": {
                             "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
+                            "university": "Florida internatinal university <br> 2020-2023 <br> B.S in computer engineering"
                         }
                     }
                 }
@@ -50,7 +50,7 @@
                 "info": {
                     "sports": {
                         "title": "sports",
-                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I am a dedicated sports enthusiast, and soccer sits at the heart of my passion. Whether it’s cheering on my favorite team, discussing tactical formations, or enjoying a friendly match with friends, I’m always drawn to the exhilarating energy of the game. Beyond its athletic aspects, soccer brings people together from all walks of life, creating a unifying spirit that transcends borders and cultures."
                     },
                     "favorite-games": {
                         "title": "favorite-games",
@@ -64,15 +64,16 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "jeniferp.0122@<br>hotmail.com",
+                "phone": "+17865274223"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
                 "url": "https://github.com/",
-                "user": "username"
+                "user": "jeniferp0122/",
+                "snake-game": "43adf3fe117b7e706ad5e091caf1053f"
             },
             "facebook": {
                 "title": "Facebook profile",
@@ -83,6 +84,11 @@
                 "title": "Twitter account",
                 "url": "https://twitter.com/",
                 "user": "username"
+            },
+            "linkedin": {
+                "title": "linkedin profile",
+                "url": "https://linkedin.com/in/",
+                "user": "jennifer-pantoja-a318561b8"
             }
         },
         "find_me_also_in": {
@@ -91,7 +97,7 @@
                 "youtube": {
                     "title": "YouTube channel",
                     "url": "https://www.youtube.com/",
-                    "user": "username"
+                    "user": "@jenniferxd8900"
                 },
                 "gurushots": {
                     "title": "GuruShots profile",
@@ -101,62 +107,83 @@
                 "instagram": {
                     "title": "Instagram account",
                     "url": "https://instagram.com/",
-                    "user": "username"
+                    "user": "jennifeerr.22"
                 },
                 "twitch": {
                     "title": "Twitch profile",
                     "url": "https://twitch.com/",
-                    "user": "username"
+                    "user": "jenniferp0122"
                 }
             }
         }
     },
     "gists": {
-        "1": "83861a67e377633ee8368df01ee3a355",
+        "1": "43adf3fe117b7e706ad5e091caf1053f",
         "2": "694c1f32332788a2ac7f37b09e5aa40e"
     },
     "projects": {
         "1": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations2.png",
-            "tech": ["Flutter"],
-            "url": "https://github.com/"
+            "title": "Encation Door ",
+            "description": "The Encation door is a high security door that utilizes multi-step authentication to verify user identity.",
+            "img": "/images/projects/encation-door.png",
+            "tech": ["Python","C++"],
+            "url": "https://github.com/jeniferp0122/Encantion-Door-.git"
         },
         "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
-            "url": "https://github.com/"
+            "title": "Chess Game",
+            "description": "Interactive Chess Game that handles all rules and special moves and game modes vs AI and Player.",
+            "img": "/images/projects/chess-game.png",
+            "tech": ["CSharp","dotNet"],
+            "url": "https://github.com/jeniferp0122/Chess.git"
         },
         "3": {
-            "title": "_worldmap",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
-            "url": "https://github.com/"
+            "title": "Face Mesh",
+            "description": "The face mesh is a 3D facial landmark of a face. It works in combination with tensorflow to create a surface that reconstructs someone's expressions",
+            "img": "/images/projects/face-mesh.webp",
+            "tech": ["Javascript"],
+            "url": "https://github.com/jeniferp0122/FaceMesh.git"
         },
         "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
+            "title": "Invoice-App",
+            "description": "Fuctional invoice app that allows to create, delete, update invoices.",
+            "img": "/images/projects/invoice-app.png",
+            "tech": ["Vue"],
+            "url": "https://github.com/johnkomarnicki/vue-invoice-app.git"
         },
         "5": {
-            "title": "_tetris-game",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/tetris-game.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
+            "title": "To Do It App",
+            "description": "Cloud Based To-Do List where users can access their List from anywhere at any time",
+            "img": "/images/projects/To-Doit.png",
+            "tech": ["Java"],
+            "url": "https://github.com/jeniferp0122/ToDoIt-Android-Project.git"
         },
         "6": {
-            "title": "_ethereum",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ethereum.png",
-            "tech": ["Vue"],
-            "url": "https://github.com/"
+            "title": "BeFit App",
+            "description": "BeFit is a fitness application to keep track of calories eaten daily, food plans and workout routines.",
+            "img": "/images/projects/BeFit-App.png",
+            "tech": ["Swift"],
+            "url": "https://github.com/jeniferp0122/IOS-Project.git"
+        },
+        "7": {
+            "title": "Card-Deck Manager",
+            "description": "The Card Deck Manager is a web-based application that provides an interactive interface for managing a virtual deck of cards. It is designed with features that enable users to shuffle, deal, reset, and view the history of dealt cards.",
+            "img": "/images/projects/Card-Deck Manager.png",
+            "tech": ["Angular"],
+            "url": "https://github.com/jeniferp0122/CardDeckManager.git"
+        },
+        "8": {
+            "title": "Lip-Net",
+            "description": "A Lip Reader app that uses AI software to read lips more accurately that human beings. The software is called LipNet and has a 92% accuracy rating.",
+            "img": "/images/projects/LipNet.png",
+            "tech": ["Python"],
+            "url": "https://github.com/jeniferp0122/LipNet-app.git"
+        },
+        "9": {
+            "title": "Message-Generator",
+            "description": "This project simulates a three-card tarot reading by randomly selecting three cards and moods from a JSON file containing modified tarot card data with images. The moods influence the interpretation of the cards, and a function combines the data to create a personalized reading message. Users can refresh the page to receive a new tarot reading.",
+            "img": "/images/projects/Message-Generator.png",
+            "tech": ["HTML","Javascript","CSS"],
+            "url": "https://github.com/jeniferp0122/Message-Generator.git"
         }
     }
 }
