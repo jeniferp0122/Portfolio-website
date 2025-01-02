@@ -209,7 +209,7 @@ function handleResize() {
   height: 300px;
 	border-radius: 0% 50% 0% 50%;
 	filter: blur(70px);
-  background: radial-gradient(circle at 50% 50%,rgba(67, 217, 173, 1), rgba(76, 0, 255, 0));
+  background: radial-gradient(circle at 50% 50%,rgb(121, 41, 187), rgba(76, 0, 255, 0));
   opacity: 0.5;
   z-index: 10;
 }

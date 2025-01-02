@@ -409,7 +409,7 @@ mounted() {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: linear-gradient(to bottom, rgba(35, 123, 109, 1), rgba(67, 217, 173, 0.13));
+  background: linear-gradient(to bottom, rgb(81, 23, 95), rgba(67, 217, 173, 0.13));
   border-radius: 10px;
   padding: 30px;
   position: relative;
